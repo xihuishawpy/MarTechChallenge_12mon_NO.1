@@ -4,4 +4,4 @@
 
 https://aistudio.baidu.com/aistudio/competition/detail/52/0/introduction
 
-checkpoint不知要怎么弄~
+
